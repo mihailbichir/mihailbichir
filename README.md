@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mihailbichir
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in FrontEnd learning
+- 🌱 I’m currently taking the 100 Days of code course from Academind
 - 📫 How to reach me bichirm@yahoo.com
 
 <!---
